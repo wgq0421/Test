@@ -12,6 +12,6 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         FreelineCore.init(this);
-        super.onCreate();//
+        super.onCreate();////
     }
 }

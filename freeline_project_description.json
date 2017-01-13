@@ -1,0 +1,107 @@
+{
+    "android_gradle_plugin_version": "2.2.3",
+    "apk_path": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/build/outputs/apk/hello-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/build/freeline",
+    "build_directory": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/build",
+    "build_script": "./gradlew :hello:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "/Users/wuguoqiang/Documents/develop/studioSdk/build-tools/23.0.2",
+    "build_tools_version": "23.0.2",
+    "compile_sdk_directory": "/Users/wuguoqiang/Documents/develop/studioSdk/platforms/android-23",
+    "compile_sdk_version": "android-23",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "example.com.hello",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test",
+    "freeline_gradle_plugin_version": "0.8.3",
+    "java_home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home",
+    "launcher": "example.com.test.SecondActivity",
+    "main_assets_directory": [
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/assets",
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/assets"
+    ],
+    "main_jniLibs_directory": [
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/jniLibs",
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/jniLibs"
+    ],
+    "main_jni_directory": [
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/jni",
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/jni"
+    ],
+    "main_manifest_path": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/AndroidManifest.xml",
+    "main_project_dir": "hello",
+    "main_project_name": "hello",
+    "main_r_path": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/build/generated/source/r/debug/R.java",
+    "main_res_directory": [
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/res",
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/res"
+    ],
+    "main_src_directory": [
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/java",
+        "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/java"
+    ],
+    "module_dependencies": {
+        "hello": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "hello",
+            "path": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello"
+        }
+    ],
+    "package": "example.com.test",
+    "product_flavor": "",
+    "project_source_sets": {
+        "hello": {
+            "main_assets_directory": [
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/assets",
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/jniLibs",
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/jni",
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/res",
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/debug/java",
+                "/Users/wuguoqiang/Documents/develop/studioworkplace/Test/hello/src/main/java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "/Users/wuguoqiang/Documents/develop/studioworkplace/Test",
+    "sdk_directory": "/Users/wuguoqiang/Documents/develop/studioSdk",
+    "use_jdk8": true
+}
