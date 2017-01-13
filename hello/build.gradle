@@ -1,8 +1,14 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.antfortune.freeline'
 
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
+
+    freeline {
+        hack true
+//        productFlavor "haha" //如果有默认的渠道也可写默认渠道
+    }
 
     defaultConfig {
         applicationId "example.com.hello"
@@ -23,4 +29,8 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.3.0'
+    debugCompile 'com.antfortune.freeline:runtime:0.8.3'
+    releaseCompile 'com.antfortune.freeline:runtime-no-op:0.8.3'
+    testCompile 'com.antfortune.freeline:runtime-no-op:0.8.3'
+
 }
